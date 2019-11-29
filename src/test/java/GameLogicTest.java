@@ -1,5 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
+import ua.epam.javacore.Choice;
+import ua.epam.javacore.GameLogic;
+import ua.epam.javacore.Player;
 
 public class GameLogicTest {
 
@@ -8,6 +11,6 @@ public class GameLogicTest {
 
     @Test
     public void getChoicePlayerTest() {
-        Assert.assertEquals(gameLogic.getChoicePlayer(player),Choice.ROCK);
+        Assert.assertEquals(gameLogic.getChoicePlayer(player), Choice.ROCK);
     }
 }

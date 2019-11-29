@@ -1,3 +1,5 @@
+package ua.epam.javacore;
+
 import java.util.Scanner;
 
 public class Player {

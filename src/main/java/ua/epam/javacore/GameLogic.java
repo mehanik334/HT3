@@ -1,3 +1,8 @@
+package ua.epam.javacore;
+
+import ua.epam.javacore.Choice;
+import ua.epam.javacore.Player;
+
 import java.util.Scanner;
 
 public class GameLogic {

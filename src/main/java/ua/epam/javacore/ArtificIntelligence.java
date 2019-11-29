@@ -1,3 +1,5 @@
+package ua.epam.javacore;
+
 import java.util.Random;
 
 public class ArtificIntelligence {

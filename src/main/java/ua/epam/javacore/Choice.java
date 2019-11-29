@@ -1,3 +1,5 @@
+package ua.epam.javacore;
+
 public enum Choice {
     ROCK,SCISSORS,PAPER;
 
